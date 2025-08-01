@@ -1,0 +1,2 @@
+# Mines
+Qureshi mines prediction 
